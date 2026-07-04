@@ -1,0 +1,4 @@
+- Project title: Student Profile
+- Short project description: Short Description about my self 
+- Student name: AJ E CATLI
+- Course and section: BSIT-BA 3303
